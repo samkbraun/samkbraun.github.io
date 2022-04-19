@@ -1,6 +1,14 @@
 h1 {
   color: white;
+  font-size: 210%;
 }
 h2 {
   color: black;
+  font-size: 160%;
+}
+p {
+  font-size: 110%;
+}
+a {
+  color: rgb(90, 90, 160);
 }
